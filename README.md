@@ -11,6 +11,8 @@ Features, 基本功能：
 
 2.被丟入的商品品項如果相同，則數目增加。
 
+https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart2.rb
+
 3.被丟入的商品能被取出。
 
 4.有數量後，能計算總金額。 
