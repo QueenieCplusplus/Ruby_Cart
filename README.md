@@ -64,6 +64,7 @@ https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart6.rb
       
 7. Hash 轉成 Cart 格式。
 
+https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart7.rb
 
         def self.from_hash_to_cart(hash)
 
