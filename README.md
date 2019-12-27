@@ -21,11 +21,13 @@ https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart3.rb
 
 https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart_item2.rb
 
-4.有數量後，能計算總金額。 
+4.有數量後，能計算小計金額。 
 
 https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart4.rb
 
 https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart_item3.rb
+
+4-1. 算出整台購物車總計金額。
 
 5.可以搭配促銷活動折扣。
 
