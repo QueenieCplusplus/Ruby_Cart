@@ -31,6 +31,8 @@ https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart_item3.rb
 
 // 可以搭配促銷活動折扣。
 
+https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart5.rb
+
 6. Session 轉成 Hash 雜湊格式。
 
 7. Hash 轉成 Cart 格式。
