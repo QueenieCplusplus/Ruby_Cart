@@ -35,6 +35,17 @@ https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart5.rb
 
 6. Cart 轉成 Hash 雜湊格式->存到 session 中。
 
+
+        private
+        def session_hash
+            {
+                "items" => [
+                    {"product_id" => pK, "quantity" => 2},
+                    {"produce_id" => pQ, "quantity" => 3}
+                ]
+            }
+        end
+
 7. Hash 轉成 Cart 格式。
 
 
