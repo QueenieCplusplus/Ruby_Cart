@@ -33,7 +33,7 @@ https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart_item3.rb
 
 https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart5.rb
 
-6. Session 轉成 Hash 雜湊格式。
+6. Cart 轉成 Hash 雜湊格式->存到 session 中。
 
 7. Hash 轉成 Cart 格式。
 
