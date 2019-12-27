@@ -46,6 +46,21 @@ https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart5.rb
             }
         end
 
+>>>
+
+      def serailize
+
+          all_items = items.map { |item|
+
+             "product_id" => item.product_id,
+             "quantity" => item.quantity
+
+          }
+
+          {"items" => all_items}
+
+      end
+      
 7. Hash 轉成 Cart 格式。
 
 
