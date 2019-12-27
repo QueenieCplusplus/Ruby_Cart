@@ -27,8 +27,10 @@ https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart4.rb
 
 https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart_item3.rb
 
-4-1. 算出整台購物車總計金額。
+5. 算出整台購物車總計金額。
 
-5.可以搭配促銷活動折扣。
+//5.可以搭配促銷活動折扣。
+
+6. 轉成 Hash 雜湊格式。
 
 
