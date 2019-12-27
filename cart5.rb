@@ -48,7 +48,7 @@ require 'rails_helper'
 RSpec.describe Cart, type::model do
     describe "購物車功能" do
 
-        it "features(4) 每個品項能計算自己的小計金額" do
+        it "features(5)" do
 
             cart = Cart.new #新增一台購物車
 
