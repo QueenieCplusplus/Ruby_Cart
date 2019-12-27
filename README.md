@@ -17,6 +17,9 @@ https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart_item.rb%20
 
 3.被丟入的商品能被取出。
 
+https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart3.rb
+
+
 4.有數量後，能計算總金額。 
 
 5.可以搭配促銷活動折扣。
