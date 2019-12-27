@@ -3,6 +3,8 @@
 
 plz see code.
 
+# 購物車
+
 Features, 基本功能：
 
 1.商品丟入購物車，購物車內因而有商品。
@@ -79,4 +81,10 @@ https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart7.rb
             end
         end   
 
+#訂單處理
 
+  TBD
+
+#金流串接
+
+  TBD
