@@ -19,6 +19,7 @@ https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart_item.rb%20
 
 https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart3.rb
 
+https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart_item2.rb
 
 4.有數量後，能計算總金額。 
 
