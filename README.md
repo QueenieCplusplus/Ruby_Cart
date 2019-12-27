@@ -13,6 +13,8 @@ Features, 基本功能：
 
 https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart2.rb
 
+https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart_item.rb%20
+
 3.被丟入的商品能被取出。
 
 4.有數量後，能計算總金額。 
