@@ -25,6 +25,8 @@ https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart_item2.rb
 
 https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart4.rb
 
+https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart_item3.rb
+
 5.可以搭配促銷活動折扣。
 
 
