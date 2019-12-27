@@ -65,5 +65,17 @@ https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart6.rb
 7. Hash 轉成 Cart 格式。
 
 
+        def self.from_hash_to_cart(hash)
+
+            if hash.nil?
+                new[]
+            else
+                new hash[items].map {|item_hash|
+
+                    CartItem.new(item_hash["product_id"], item_hash["Quantity"])
+
+                }  
+            end
+        end   
 
 
