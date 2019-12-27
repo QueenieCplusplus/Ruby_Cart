@@ -35,6 +35,7 @@ https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart5.rb
 
 6. Cart 轉成 Hash 雜湊格式->存到 session 中。
 
+https://github.com/QueenieCplusplus/Ruby_Cart/blob/master/cart6.rb
 
         private
         def session_hash
