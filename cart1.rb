@@ -28,7 +28,7 @@
 
 //Spec, 規格表
 // require 'rail_helper'
-// RSpec.describe Cart, type: :model do
+// RSpec.describe Cart, type: :model do # model 是 rail 框架的常用套件模組
 //   describe "購物車基本功能" do
 //    it ""
 //    it ""
